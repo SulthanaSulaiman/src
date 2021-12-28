@@ -1,0 +1,3 @@
+To run all the java files apache poi package need to be in the classpath and hence the folder org is copied into this folder and if this program is run in any external machine then the class shud be set to POI folder as
+
+set classpath=%CLASSPATH%;C:\pathfinder\Batchfiles\CPR_ScheduleSheet\org\apache\poi
